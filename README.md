@@ -9,7 +9,7 @@ Herramienta  para recordar contraseñas olvidadas o auditorias de seguridad que 
 ## Instalación
 Clona el repositorio y ejecuta el script:
 ```bash
-git clone https://github.com/yeixx/KeyForge.git
+git clone https://github.com/BlumeSec/KeyForge.git
 cd KeyForge
 python3 keyforge.py
 ```
